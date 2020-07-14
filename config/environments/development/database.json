@@ -1,0 +1,17 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "bookshelf",
+      "settings": {
+        "client": "postgres",
+        "host": "127.0.0.1",
+        "port": "1337",
+        "database": ".tmp/data.db",
+        "username": "",
+        "password": ""
+      },
+      "options": {}
+    }
+  }
+}

@@ -28,11 +28,26 @@
       "plugin": "upload",
       "required": true
     },
-    "stack": {
+    "Language": {
       "type": "component",
       "repeatable": true,
       "component": "description.stack-item",
       "required": true
+    },
+    "Certifications": {
+      "type": "component",
+      "repeatable": true,
+      "component": "description.stack-item"
+    },
+    "Tools": {
+      "type": "component",
+      "repeatable": true,
+      "component": "description.stack-item"
+    },
+    "Framework": {
+      "type": "component",
+      "repeatable": true,
+      "component": "description.stack-item"
     }
   }
 }
