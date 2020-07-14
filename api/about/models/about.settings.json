@@ -48,6 +48,11 @@
       "type": "component",
       "repeatable": true,
       "component": "description.stack-item"
+    },
+    "test": {
+      "type": "component",
+      "repeatable": true,
+      "component": "description.stack-item"
     }
   }
 }
