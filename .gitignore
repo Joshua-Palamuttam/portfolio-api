@@ -114,3 +114,4 @@ exports
 .cache
 build
 app.yaml
+settings.json
